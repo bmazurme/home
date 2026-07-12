@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .env
+docker-compose.yml
 backend/models/*.bin
 backend/tmp/*
 !backend/tmp/.gitkeep
